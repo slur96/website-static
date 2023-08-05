@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: MyPc_Agent
+pool: SamPCAgent
 
 steps:
 - task: ArchiveFiles@2
